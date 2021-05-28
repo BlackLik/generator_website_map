@@ -155,5 +155,7 @@ def indent(elem, level=0):
 
 
 if __name__ == "__main__":
+    start = time.time()
     ask_for_url()
+    print("Работала {:.2f} секунд".format(time.time() - start))
 

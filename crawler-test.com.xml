@@ -931,7 +931,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://crawler-test.com/urls/with_session_id?sessionID=qSS6rHkuP1pCo4jz5Je1</loc>
+    <loc>http://crawler-test.com/urls/with_session_id?sessionID=Vg53TNNhZLzc29tu5Ov8</loc>
     <lastmod>2021-05-28</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1951,7 +1951,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://crawler-test.com/other/expiring_page_for_removed_test/1622149338.2040756</loc>
+    <loc>http://crawler-test.com/other/expiring_page_for_removed_test/1622213923.084989</loc>
     <lastmod>2021-05-28</lastmod>
     <priority>0.6</priority>
   </url>
